@@ -1,0 +1,2 @@
+Omega Object Constructors Example
+===
